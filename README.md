@@ -12,3 +12,4 @@ Have first two goals completed by end of March, ideally up to #3 if time permits
 ## Journal
 * **March 11th:** did a few videos from the javascript refresher section. Learnt about template literals, ternary operator, arrow functions, and how short-circuiting can be used to return values.
 * **March 12th:** Optional chaining, functional array methods (map(), filter(), and reduce()), sort().
+* **March 13th:** Promises, asynchronous functions and await keyword. Finished javascript basics.
