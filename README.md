@@ -8,7 +8,9 @@
 
 ## Timeline
 ~~Have first two goals completed by end of March, ideally up to #3 if time permits.~~
+
 Complete goal #1 by end of March.
+
 Start goal #2 after 402 final; should have something working within two weeks.
 
 ## Journal
