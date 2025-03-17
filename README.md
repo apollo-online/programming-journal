@@ -17,4 +17,4 @@
 * **March 13th:** Promises, asynchronous functions and await keyword. Finished javascript basics.
 * **March 14th:** Started React basics section. Learnt about basic React project structure, and the basics of Components and JSX.
 * **March 15th:** Learnt more about using components, writing javascript in JSX, separation of concerns, styling in JSX and the basics of props.
-* **March 16th:** Completed coding challenge #1: https://frt7qn.csb.app/. 
+* **March 16th:** Completed coding challenge #1: https://frt7qn.csb.app/. Did a bunch of work on Pizza app.
