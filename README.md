@@ -18,3 +18,4 @@
 * **March 14th:** Started React basics section. Learnt about basic React project structure, and the basics of Components and JSX.
 * **March 15th:** Learnt more about using components, writing javascript in JSX, separation of concerns, styling in JSX and the basics of props.
 * **March 16th:** Completed coding challenge #1: https://frt7qn.csb.app/. Did a bunch of work on Pizza app.
+* **March 16th:** Finished Pizza app: https://github.com/apollo-online/react-pizza-app.
