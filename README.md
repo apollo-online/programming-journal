@@ -19,3 +19,4 @@
 * **March 15th:** Learnt more about using components, writing javascript in JSX, separation of concerns, styling in JSX and the basics of props.
 * **March 16th:** Completed coding challenge #1: https://frt7qn.csb.app/. Did a bunch of work on Pizza app.
 * **March 17th:** Finished Pizza app: https://github.com/apollo-online/react-pizza-app. Updated coding challenge #1 to render list of components. Moving on to section #6.
+* **March 18th:** Started section #7. Basic set-up for steps applet.
