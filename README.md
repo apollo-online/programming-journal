@@ -22,3 +22,5 @@
 * **March 18th:** Started section #7. Basic set-up for steps applet.
 * **March 19th:** Nothing.
 * **March 20th:** Started learning about state.
+* **March 21st:** More state.
+* **March 22nd:** Finished state basics. Completed coding challenge: https://l44dxt.csb.app/.
