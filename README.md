@@ -23,5 +23,5 @@
 * **March 19th:** Nothing.
 * **March 20th:** Started learning about state.
 * **March 21st:** More state.
-* **March 22nd:** Finished state basics. Completed coding challenge: https://l44dxt.csb.app/.
-* **March 23rd:** Started working on travel app. Learnt about controlled elements.
+* **March 22nd:** Finished state basics. Completed coding challenge #1 (date calculator): https://l44dxt.csb.app/.
+* **March 23rd:** Started working on travel app. Learnt about controlled elements. Completed flash cards exercise: https://fmxxzw.csb.app/
