@@ -15,7 +15,7 @@
 * **March 11th:** did a few videos from the javascript refresher section. Learnt about template literals, ternary operator, arrow functions, and how short-circuiting can be used to return values.
 * **March 12th:** Optional chaining, functional array methods (map(), filter(), and reduce()), sort().
 * **March 13th:** Promises, asynchronous functions and await keyword. Finished javascript basics.
-* **March 14th:** Started React basics section. Learnt about basic React project structure, and the basics of Components and JSX.
+* **March 14th:** Started section #5. Learnt about basic React project structure, and the basics of Components and JSX.
 * **March 15th:** Learnt more about using components, writing javascript in JSX, separation of concerns, styling in JSX and the basics of props.
 * **March 16th:** Completed coding challenge #1: https://frt7qn.csb.app/. Did a bunch of work on Pizza app.
 * **March 17th:** Finished Pizza app: https://github.com/apollo-online/react-pizza-app. Updated coding challenge #1 to render list of components.
@@ -25,3 +25,4 @@
 * **March 21st:** More state.
 * **March 22nd:** Finished state basics. Completed coding challenge #1 (date calculator): https://l44dxt.csb.app/.
 * **March 23rd:** Started working on travel app. Learnt about controlled elements. Completed flash cards exercise: https://fmxxzw.csb.app/
+* **March 24th:** Finished coding challenge #2 (date calculator): https://tlfgt8.csb.app/. Started section #7.
