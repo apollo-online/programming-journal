@@ -26,3 +26,5 @@
 * **March 22nd:** Finished state basics. Completed coding challenge #1 (date calculator): https://l44dxt.csb.app/.
 * **March 23rd:** Started working on travel app. Learnt about controlled elements. Completed flash cards exercise: https://fmxxzw.csb.app/
 * **March 24th:** Finished coding challenge #2 (date calculator): https://tlfgt8.csb.app/. Started section #7.
+* **March 25th:** Nothing.
+* **March 26th:** Learnt about lifting up state.
