@@ -20,11 +20,10 @@
 * **March 16th:** Completed coding challenge #1: https://frt7qn.csb.app/. Did a bunch of work on Pizza app.
 * **March 17th:** Finished Pizza app: https://github.com/apollo-online/react-pizza-app. Updated coding challenge #1 to render list of components.
 * **March 18th:** Started section #6. Basic set-up for steps applet.
-* **March 19th:** Nothing.
 * **March 20th:** Started learning about state.
 * **March 21st:** More state.
 * **March 22nd:** Finished state basics. Completed coding challenge #1 (date calculator): https://l44dxt.csb.app/.
 * **March 23rd:** Started working on travel app. Learnt about controlled elements. Completed flash cards exercise: https://fmxxzw.csb.app/
 * **March 24th:** Finished coding challenge #2 (date calculator): https://tlfgt8.csb.app/. Started section #7.
-* **March 25th:** Nothing.
 * **March 26th:** Learnt about lifting up state.
+* **March 28th:** Kept working on travel app.
