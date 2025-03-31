@@ -27,3 +27,4 @@
 * **March 24th:** Finished coding challenge #2 (date calculator): https://tlfgt8.csb.app/. Started section #7.
 * **March 26th:** Learnt about lifting up state.
 * **March 28th:** Kept working on travel app.
+* **March 30th:** Finished travel app: https://github.com/apollo-online/react-travel-app.
