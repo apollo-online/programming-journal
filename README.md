@@ -28,4 +28,7 @@
 * **March 26th:** Learnt about lifting up state.
 * **March 28th:** Kept working on travel app.
 * **March 30th:** Finished travel app: https://github.com/apollo-online/react-travel-app.
-* **March 31st:** Started exercise #1 (accordion): https://7zd6hc.csb.app/.
+* **March 31st:** Completed exercise #1 (accordion): https://7zd6hc.csb.app/.
+* **April 1st:** Learned about children prop.
+* **April 3rd:** Completed exercise #2 (accordion improvement).
+
