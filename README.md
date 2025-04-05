@@ -32,5 +32,5 @@
 * **March 31st:** Completed exercise #1 (accordion): https://7zd6hc.csb.app/.
 * **April 1st:** Learned about children prop.
 * **April 3rd:** Completed exercise #2 (accordion improvement).
-* **April 4th:** Completed coding challenge #2: https://xy7pck.csb.app/. Finished section 7!
+* **April 4th:** Completed coding challenge #2: https://xy7pck.csb.app/. Finished section 7! Set up bill splitter demo app.
 
