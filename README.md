@@ -1,15 +1,16 @@
 # Programming Journal
 
 ## Goals
-* Goal #1: finish up to chapter 7 of React course.
+* ~~Goal #1: finish up to chapter 7 of React course.~~
+* Goal #1.5: complete billing app.
 * Goal #2: create some sort of basic React project to practice basics.
 * Goal #3: finish chapters 9-13 of React course.
 * Goal #4: create more advanced React project to practice intermediate concepts.
 
 ## Timeline
 * ~~Have first two goals completed by end of March, ideally up to #3 if time permits.~~
-* Complete goal #1 by end of March.
-* Start goal #2 after 402 final; should have something working within two weeks.
+* ~~Complete goal #1 by end of March.~~
+* Start goal #2 after 402 is over; should have something working within two weeks.
 
 ## Journal
 * **March 11th:** did a few videos from the javascript refresher section. Learnt about template literals, ternary operator, arrow functions, and how short-circuiting can be used to return values.
@@ -31,4 +32,5 @@
 * **March 31st:** Completed exercise #1 (accordion): https://7zd6hc.csb.app/.
 * **April 1st:** Learned about children prop.
 * **April 3rd:** Completed exercise #2 (accordion improvement).
+* **April 4th:** Completed coding challenge #2: https://xy7pck.csb.app/. Finished section 7!
 
